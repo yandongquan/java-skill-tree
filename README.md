@@ -8,7 +8,7 @@ Java 工程师技能树
 
 ![Java 工程师技能树](https://github.com/yandongquan/java-skill-tree/blob/master/java-tree.png?raw=true "Java 工程师技能树")
 
-图片版本 [Java 工程师技能树大图](http://yandongquan.github.io/java-tree.jpg "Java 工程师技能树大图")
+图片版本 [Java 工程师技能树大图](https://github.com/yandongquan/java-skill-tree/blob/master/java-tree.png?raw=true "Java 工程师技能树大图")
 
 # 重要的修改记录
 
