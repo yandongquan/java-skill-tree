@@ -10,6 +10,6 @@ Java 工程师技能树
 
 # 重要的修改记录
 
-- 2017年10月11日 新增java-skill-tree.xmind
+- 2017年10月11日 新增java-tree.xmind
 - 2017年10月11日 新增README.md
 
