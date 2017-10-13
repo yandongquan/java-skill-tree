@@ -11,7 +11,7 @@ Java 工程师技能树
 
 图片版本 [Java 工程师技能树大图](https://github.com/yandongquan/java-skill-tree/blob/master/java-tree.png?raw=true "Java 工程师技能树大图")
 
-> 后期我也会继续更新及扩展，也希望大家根据自己的情况补全自己的技术树 [g-emoji](https://assets-cdn.github.com/images/icons/emoji/unicode/1f495.png "g-emoji")
+> 后期我也会继续更新及扩展，也希望大家根据自己的情况补全自己的技术树 ![emoji](https://assets-cdn.github.com/images/icons/emoji/unicode/1f495.png "emoji")![emoji](https://assets-cdn.github.com/images/icons/emoji/unicode/1f495.png "emoji")![emoji](https://assets-cdn.github.com/images/icons/emoji/unicode/1f495.png "emoji")
 
 # 重要的修改记录
 
